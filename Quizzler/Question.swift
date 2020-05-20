@@ -2,6 +2,8 @@
 
 import Foundation
 
+//Question Model
+
 class Question {
     
     let questionText : String
