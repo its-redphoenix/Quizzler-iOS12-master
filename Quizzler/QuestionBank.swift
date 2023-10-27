@@ -34,6 +34,14 @@ class QuestionBank {
         
         list.append(Question(text: "Buzz Aldrin\'s mother\'s maiden name was \"Moon\".", correctAnswer: true))
         
+        list.append(Question(text: "Can Pengu cook?", correctAnswer: true))
+        
+        list.append(Question(text: "Life can get a bit sad at times?", correctAnswer: false))
+        
+        list.append(Question(text: "India will win the world cup", correctAnswer: true))
+        
+        list.append(Question(text: "Constipation leads to headache", correctAnswer: true))
+        
         list.append(Question(text: "The loudest sound produced by any animal is 188 decibels. That animal is the African Elephant.", correctAnswer: false))
         
         list.append(Question(text: "No piece of square dry paper can be folded in half more than 7 times.", correctAnswer: false))
